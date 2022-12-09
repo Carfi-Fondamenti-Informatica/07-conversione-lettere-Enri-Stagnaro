@@ -1,3 +1,4 @@
+
 #include "lib.h"
 bool funzione(char a,char &t)
 {
@@ -24,3 +25,4 @@ bool funzione(char a,char &t)
     }
 
 }
+
